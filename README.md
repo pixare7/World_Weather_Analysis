@@ -11,9 +11,7 @@ This project undertakes a comprehensive analysis of the relationship between wea
 
 ### Analysis Highlights
 
-#### Plots Showcasing the Relationship Between Weather Variables and Latitude
-
-##### Scatterplots
+### Scatterplots
 
 ##### Latitude vs. Max Temperature
 ![City Latitude vs. Max Temperature on 7/21/24](https://github.com/pixare7/World_Weather_Analysis/blob/main/output_data/Fig01.png)
