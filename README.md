@@ -136,61 +136,74 @@ These conclusions highlight the complexities of weather patterns and the varying
 
 ##### Latitude vs. Max Temperature
 ![City Latitude vs. Max Temperature on 7/21/24](https://github.com/pixare7/World_Weather_Analysis/blob/main/output_data/Fig01.png)
+
 **Figure 1:**  
 
 ##### Latitude vs. Humidity
 ![City Latitude vs. Humidity on 7/21/24](https://github.com/pixare7/World_Weather_Analysis/blob/main/output_data/Fig02.png)
+
 **Figure 2**  
 
 ##### Latitude vs. Cloudiness
 ![City Latitude vs. Cloudiness on 7/21/24](https://github.com/pixare7/World_Weather_Analysis/blob/main/output_data/Fig03.png)
+
 **Figure 3**  
 
 ##### Latitude vs. Wind Speed
 ![City Latitude vs. Wind Speed on 7/21/24](https://github.com/pixare7/World_Weather_Analysis/blob/main/output_data/Fig04.png)
-**Figure 4**  
-The scatter plot above shows the relationship between latitude and wind speed of cities in our sample on 7/21/24. Overall, the scatter plot does not show a strong relationship between latitude and wind speed.
+
+**Figure 4** 
 
 #### Linear Regressions
 
 ##### Latitude vs. Maximum Temperature: Northern Hemisphere
 ![City Latitude vs. Maximum Temperature in the Northern Hemisphere on 7/21/24](https://github.com/pixare7/World_Weather_Analysis/blob/main/output_data/Fig05.png)
+
 **Figure 5**  
 
 ##### Latitude vs. Max Temperature: Southern Hemisphere
 ![City Latitude vs. Maximum Temperature in the Southern Hemisphere 7/21/24](https://github.com/pixare7/World_Weather_Analysis/blob/main/output_data/Fig06.png)
+
 **Figure 6**  
 
 ##### Latitude vs. Humidity: Northern Hemisphere
 ![City Latitude vs. Humidity in the Northern Hemisphere 7/21/24](https://github.com/pixare7/World_Weather_Analysis/blob/main/output_data/Fig07.png)
+
 **Figure 7**  
 
 ##### Latitude vs. Humidity: Southern Hemisphere
 ![City Latitude vs. Humidity in the Southern Hemisphere 7/21/24](https://github.com/pixare7/World_Weather_Analysis/blob/main/output_data/Fig08.png)
+
 **Figure 8**  
 
 ##### Latitude vs. Cloudiness: Northern Hemisphere
 ![City Latitude vs. Cloudiness in the Northern Hemisphere 7/21/24](https://github.com/pixare7/World_Weather_Analysis/blob/main/output_data/Fig09.png)
+
 **Figure 9**  
 
 ##### Latitude vs. Cloudiness: Southern Hemisphere
 ![City Latitude vs. Cloudiness in the Southern Hemisphere 7/21/24](https://github.com/pixare7/World_Weather_Analysis/blob/main/output_data/Fig10.png)
+
 **Figure 10**  
 
 ##### Latitude vs. Wind Speed: Northern Hemisphere
 ![City Latitude vs. Wind Speed in the Northern Hemisphere 7/21/24](https://github.com/pixare7/World_Weather_Analysis/blob/main/output_data/Fig11.png)
+
 **Figure 11**  
 
 ##### Latitude vs. Wind Speed: Southern Hemisphere
 ![City Latitude vs. Wind Speed in the Southern Hemisphere 7/21/24](https://github.com/pixare7/World_Weather_Analysis/blob/main/output_data/Fig12.png)
+
 **Figure 12**  
 
 #### Map Plots
 
 ##### Map Plot Cities by Humidity
 ![Map Plot of Cities](https://github.com/pixare7/World_Weather_Analysis/blob/main/output_data/Fig13.png)
+
 **Figure 13**  
 
 ##### Map Plot Cities with Ideal Weather Conditions
 ![Map Plot of Cities](https://github.com/pixare7/World_Weather_Analysis/blob/main/output_data/Fig14.png)
+
 **Figure 14** 
